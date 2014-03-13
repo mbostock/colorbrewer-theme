@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<array>
+		<dict>
+ 			<key>settings</key>
+			<dict>
+ 				<key>background</key>
+				<string>#2d2d2d</string>
+				<key>caret</key>
+				<string>#cccccc</string>
+				<key>foreground</key>
+				<string>#cccccc</string>
+				<key>invisibles</key>
+				<string>#cccccc</string>
+				<key>lineHighlight</key>
+				<string>#515151</string>
+				<key>selection</key>
+				<string>#515151</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blue</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag, storage, entity.name.tag, support.constant, keyword.control, keyword.operator, meta.selector</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6baed6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pink</string>
+			<key>scope</key>
+			<string>support.function, variable.language, markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e377c2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Orange</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.xml, entity.other.attribute-name.html, entity.name.function, support.class, markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fd8d3c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Green</string>
+			<key>scope</key>
+			<string>constant.numeric, constant.character, constant.language, markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#74c476</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Purple</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9e9ac8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gray</string>
+			<key>scope</key>
+			<string>comment, meta.brace.square, meta.delimiter.method.period</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#969696</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
